@@ -1,0 +1,220 @@
+
+.container{
+    font-family: 'Kanit', sans-serif;
+    margin: 40px 50px;
+}
+
+.sec1{
+    font-family: 'kanit' sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    margin-bottom: 10px;
+    color:blue;
+}
+
+.sec2{
+    font-family: 'kanit' sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    margin-bottom: 10px;
+    color:blue;
+}
+
+.sec3{
+    font-family: 'kanit' sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    margin-bottom: 10px;
+    color:blue;
+}
+
+.sec4{
+    font-family: 'kanit' sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    margin-bottom: 10px;
+    color:blue;
+}
+
+.sec5{
+    font-family: 'kanit' sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    margin-bottom: 10px;
+    color:blue;
+}
+
+.author{
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0 0 40px 0;
+}
+
+.paragraph {
+    font-size: 18px;
+    break-inside: avoid;
+    margin: 0 0 25px 0;
+    }
+
+.paragraph:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.header{
+    font-size: 16px;
+    font-weight: 400;
+    font-style: black900
+    line-height1.5;
+    margin: 0 0 25px 0;
+    color:blue;
+
+}
+
+.p1{
+    line-height1.7;
+    margin: 0 0 25px 0;
+}
+
+.p2{
+    line-height1.9;
+    margin: 0 0 25px 0;
+}
+
+.p3{
+    line-height2.1;
+    margin: 0 0 25px 0;
+}
+
+.p4{
+    line-height2.3;
+    margin: 0 0 25px 0;
+}
+
+.column-container{
+    column-count: 1;
+}
+
+.in1{
+    font-size: 16;
+}
+
+.ch1{
+    font-family: 'kanit' sans-serif;
+    font-weight: 900;
+    font-size: 100px;
+}
+
+
+.ch4{
+    font-family: 'kanit' sans-serif;
+    font-weight: 100;
+    font-size: 100px
+}
+
+
+
+.dis1{
+    font-family: 'kanit' sans-serif;
+    color:#0048ff;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 100px
+    
+    
+}
+
+.dis2{
+    font-family: 'kanit' sans-serif;
+    color:#0048ffcd;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 100px
+}
+
+.dis3{
+    font-family: 'kanit' sans-serif;
+    color:#0048ffa7;
+    font-style: italic;
+    font-weight:500;
+    font-size: 100px
+}
+
+.dis4{
+    font-family: 'kanit' sans-serif;
+    color:#0048ff7e;
+    font-style: italic;
+    font-weight:300;
+    font-size: 100px
+}
+
+.dis5{
+    font-family: 'kanit' sans-serif;
+    color:#0048ff4b;
+    font-style: italic;
+    font-weight: 100;
+    font-size: 100px
+}
+
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+  }
+
+
+.bc1{
+    font-weight: 100;
+    font-size: 25px
+}
+
+.bc2{
+    font-weight: 300;
+    font-size: 25px
+}
+
+.bc3{
+    font-weight: 400;
+    font-size: 25px
+}
+
+.bc4{
+    font-weight: 600;
+    font-size: 25px
+}
+
+.xp1{
+    font-size: 1000%;
+    color: rgb(255, 255, 255);
+    text-shadow: 
+        -1px -1px 0 #000,  
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+    font-weight: 700;
+
+}
+
+.xp2{
+    font-weight: 1000;
+    font-size: 1000%;
+    background: linear-gradient(15deg, #ffffff, #0091ff);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.xp3{
+    font-weight: 100;
+    font-size: 1000%;
+            font-weight: bold;
+            color: #fff;
+            text-transform: uppercase;
+            text-align: left;
+            padding: 0px;
+            background: linear-gradient(45deg, #333, #555);
+            -webkit-background-clip: text;
+            background-clip: text;
+            text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
+}
